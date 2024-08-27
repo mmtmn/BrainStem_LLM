@@ -1,0 +1,3 @@
+gym[all] 
+tensorflow 
+stable-baselines3
